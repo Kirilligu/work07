@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">work07</string>
+    <string-array name="cities_array">
+        <item>Москва</item>
+        <item>Иркутск</item>
+        <item>Санкт-Петербург</item>
+        <item>Владивосток</item>
+        <item>Самара</item>
+        <item>Красноярск</item>
+        <item>Чита</item>
+        <item>Челябинск</item>
+        <item>Сочи</item>
+        <item>Краснодар</item>
+        <item>Омск</item>
+    </string-array>
+</resources>
